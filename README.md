@@ -4,3 +4,4 @@ all gifs are from tenor
 
 https://tenor.com/view/russian-roulette-gun-gif-24197229
 https://c.tenor.com/tFNIEnmiYSYAAAAM/sam-shoot.gif
+https://raw.githubusercontent.com/dna337/imghostingbdfd/refs/heads/main/spin.gif
